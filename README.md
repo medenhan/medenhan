@@ -1,21 +1,20 @@
 ### Hi there 👋
 
 <!--
+-->
 **medenhan/medenhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on to deploy enhenced document on AWS project
+- 🌱 I’m currently learning on Google Cybersecurity course
+- 👯 I’m looking to collaborate on anything regards to secuirty on the cloud.
+- 🤔 I’m looking for help with improving on my cloud security skills,
+- 💬 Ask me about anything about how to start from scratch
+- 📫 How to reach me: medenhan@hotmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Just letting you know, I tend to be overly friendly, so don't be shy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  # 💫 About Me:
-I'm currently working on Cybersecurity skills to become a Cloud Security Engineer.
+I'm a Certified Cybersecurity Professional (ISC2) and four-time AWS certified expert with a BSc in Computer Science. I've collaborated on securing and mitigating cyber threats with various organizations, enhancing leadership and problem-solving skills. Previously, I owned and managed a business for almost 8 years, gaining valuable entrepreneurial insights. Outside work, I value family time. For more on my professional background, feel free to reach out.
 
 
 ## 🌐 Socials:
