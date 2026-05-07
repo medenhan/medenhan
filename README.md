@@ -44,7 +44,8 @@ Docker · GitHub · Python · Linux · Notion API
 - AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner
 - ISC² Certified in Cybersecurity (CC)
-- LFCA · KCNA
+- LFCA: Linux Foundation Certified IT Associat
+- KCNA: Kubernetes and Cloud Native Associat
 
 ---
 
@@ -71,7 +72,7 @@ coordination for a Houston-based client.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meden_Gebregiorgis-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/meden-g)
-[![Email](https://img.shields.io/badge/Email-medenhan@hotmail.com-D14836?style=flat&logo=gmail)](mailto:medenhan@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-meden@bisecured.com-D14836?style=flat&logo=gmail)](mailto:meden@bisecured.com)
 
 ---
 
